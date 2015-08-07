@@ -1,0 +1,161 @@
+{
+  "ref": "refs/heads/master",
+  "before": "f242fd953bb3d669415225d082334e1a9dba1c8e",
+  "after": "4734db2e8b902103dd3c938a7da33ae623a6047f",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "base_ref": null,
+  "compare": "https://github.com/amaline/cu-bot-scripts/compare/f242fd953bb3...4734db2e8b90",
+  "commits": [
+    {
+      "id": "4734db2e8b902103dd3c938a7da33ae623a6047f",
+      "distinct": true,
+      "message": "updated message",
+      "timestamp": "2015-08-07T14:40:54Z",
+      "url": "https://github.com/amaline/cu-bot-scripts/commit/4734db2e8b902103dd3c938a7da33ae623a6047f",
+      "author": {
+        "name": "Al Maline",
+        "email": "amaline@yahoo.com",
+        "username": "amaline"
+      },
+      "committer": {
+        "name": "Al Maline",
+        "email": "amaline@yahoo.com",
+        "username": "amaline"
+      },
+      "added": [
+
+      ],
+      "removed": [
+
+      ],
+      "modified": [
+        "scripts/cu.coffee"
+      ]
+    }
+  ],
+  "head_commit": {
+    "id": "4734db2e8b902103dd3c938a7da33ae623a6047f",
+    "distinct": true,
+    "message": "updated message",
+    "timestamp": "2015-08-07T14:40:54Z",
+    "url": "https://github.com/amaline/cu-bot-scripts/commit/4734db2e8b902103dd3c938a7da33ae623a6047f",
+    "author": {
+      "name": "Al Maline",
+      "email": "amaline@yahoo.com",
+      "username": "amaline"
+    },
+    "committer": {
+      "name": "Al Maline",
+      "email": "amaline@yahoo.com",
+      "username": "amaline"
+    },
+    "added": [
+
+    ],
+    "removed": [
+
+    ],
+    "modified": [
+      "scripts/cu.coffee"
+    ]
+  },
+  "repository": {
+    "id": 39952529,
+    "name": "cu-bot-scripts",
+    "full_name": "amaline/cu-bot-scripts",
+    "owner": {
+      "name": "amaline",
+      "email": "amaline@users.noreply.github.com"
+    },
+    "private": false,
+    "html_url": "https://github.com/amaline/cu-bot-scripts",
+    "description": "hubot scripts for corporate university bot",
+    "fork": false,
+    "url": "https://github.com/amaline/cu-bot-scripts",
+    "forks_url": "https://api.github.com/repos/amaline/cu-bot-scripts/forks",
+    "keys_url": "https://api.github.com/repos/amaline/cu-bot-scripts/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/amaline/cu-bot-scripts/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/amaline/cu-bot-scripts/teams",
+    "hooks_url": "https://api.github.com/repos/amaline/cu-bot-scripts/hooks",
+    "issue_events_url": "https://api.github.com/repos/amaline/cu-bot-scripts/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/amaline/cu-bot-scripts/events",
+    "assignees_url": "https://api.github.com/repos/amaline/cu-bot-scripts/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/amaline/cu-bot-scripts/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/amaline/cu-bot-scripts/tags",
+    "blobs_url": "https://api.github.com/repos/amaline/cu-bot-scripts/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/amaline/cu-bot-scripts/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/amaline/cu-bot-scripts/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/amaline/cu-bot-scripts/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/amaline/cu-bot-scripts/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/amaline/cu-bot-scripts/languages",
+    "stargazers_url": "https://api.github.com/repos/amaline/cu-bot-scripts/stargazers",
+    "contributors_url": "https://api.github.com/repos/amaline/cu-bot-scripts/contributors",
+    "subscribers_url": "https://api.github.com/repos/amaline/cu-bot-scripts/subscribers",
+    "subscription_url": "https://api.github.com/repos/amaline/cu-bot-scripts/subscription",
+    "commits_url": "https://api.github.com/repos/amaline/cu-bot-scripts/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/amaline/cu-bot-scripts/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/amaline/cu-bot-scripts/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/amaline/cu-bot-scripts/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/amaline/cu-bot-scripts/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/amaline/cu-bot-scripts/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/amaline/cu-bot-scripts/merges",
+    "archive_url": "https://api.github.com/repos/amaline/cu-bot-scripts/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/amaline/cu-bot-scripts/downloads",
+    "issues_url": "https://api.github.com/repos/amaline/cu-bot-scripts/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/amaline/cu-bot-scripts/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/amaline/cu-bot-scripts/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/amaline/cu-bot-scripts/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/amaline/cu-bot-scripts/labels{/name}",
+    "releases_url": "https://api.github.com/repos/amaline/cu-bot-scripts/releases{/id}",
+    "created_at": 1438263549,
+    "updated_at": "2015-07-30T19:05:28Z",
+    "pushed_at": 1438958518,
+    "git_url": "git://github.com/amaline/cu-bot-scripts.git",
+    "ssh_url": "git@github.com:amaline/cu-bot-scripts.git",
+    "clone_url": "https://github.com/amaline/cu-bot-scripts.git",
+    "svn_url": "https://github.com/amaline/cu-bot-scripts",
+    "homepage": null,
+    "size": 140,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "JavaScript",
+    "has_issues": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "open_issues_count": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "master",
+    "stargazers": 0,
+    "master_branch": "master"
+  },
+  "pusher": {
+    "name": "amaline",
+    "email": "amaline@users.noreply.github.com"
+  },
+  "sender": {
+    "login": "amaline",
+    "id": 5477969,
+    "avatar_url": "https://avatars.githubusercontent.com/u/5477969?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/amaline",
+    "html_url": "https://github.com/amaline",
+    "followers_url": "https://api.github.com/users/amaline/followers",
+    "following_url": "https://api.github.com/users/amaline/following{/other_user}",
+    "gists_url": "https://api.github.com/users/amaline/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/amaline/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/amaline/subscriptions",
+    "organizations_url": "https://api.github.com/users/amaline/orgs",
+    "repos_url": "https://api.github.com/users/amaline/repos",
+    "events_url": "https://api.github.com/users/amaline/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/amaline/received_events",
+    "type": "User",
+    "site_admin": false
+  }
+}
